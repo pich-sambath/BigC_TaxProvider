@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "BIGCOMMERCE_STORE_HASH": "qdjymjo4nz",
+    "BIGCOMMERCE_ACCESS_TOKEN": "2sdz4r2ffwzbqvv2hf10fok5adtwaez",
+    "BIGCOMMERCE_API_VERSION": "v3"
+  }
+}

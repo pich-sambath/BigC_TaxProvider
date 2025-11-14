@@ -1,0 +1,11 @@
+{
+  "name": "azure-function-esm",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "func start"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
